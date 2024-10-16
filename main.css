@@ -1,0 +1,59 @@
+body{
+    font-family: Roboto, sans-serif;
+}
+
+.navbar {
+    background-color:black;
+
+}
+
+.nav .nav-link.active,
+#fale-conosco button {
+    background-color: #faf61b;
+    color:black ;
+}
+
+.nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover {
+    color: #faf61b;
+}
+
+.navbar-toggler {
+    background-color: #faf61b;
+}
+
+.section-title {
+    font-family: Pacifico, cursive;
+}
+
+#sobre-a-livraria,
+#lancamentos {
+    background-color: #f8f7b1;
+}
+
+#redes-sociais {
+    color: black;
+}
+
+.social-link li {
+    list-style: none;
+    display: inline;
+}
+
+.social-link a {
+    text-decoration: none;
+}
+
+footer {
+    background-color: black;
+    color: #faf61b;
+    padding: 16px 0;
+}
+
+#comprar {
+    background-color: black;
+    color: #faf61b;
+    
+}   
+
